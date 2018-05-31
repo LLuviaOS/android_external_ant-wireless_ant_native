@@ -73,3 +73,4 @@ LOCAL_MODULE := libantradio
 ifneq ($(QCPATH),)
 include $(BUILD_SHARED_LIBRARY)
 endif
+endif
